@@ -23,7 +23,7 @@ client.on('messageCreate', message => {
 
   // Respond to a specific message 
   if (message.content.toLowerCase() === 'hi discord mod') { 
-    message.reply('Hi there! I am Discord mod :D . I never take showers and leave all my hairs behind in the kitchien :)'); 
+    message.reply('Hi there! I am Discord mod :D . I never take showers and leave all my hairs behind in the kitchen :)'); 
   }
   
     if (message.content.toLowerCase() === 'zandee') { 
