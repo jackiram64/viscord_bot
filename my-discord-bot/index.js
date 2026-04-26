@@ -26,8 +26,12 @@ client.on('messageCreate', message => {
     message.reply('Hi there! I am Discord mod :D . I never take showers and leave all my hairs behind in the kitchien :)'); 
   }
   
-    if (message.content.toLowerCase() === 'pannenkoek') { 
-    message.reply('I love '); 
+    if (message.content.toLowerCase() === 'zandee') { 
+    message.reply('Did you just insult my weight? :bupAngry:'); 
+  }
+
+    if (message.content.toLowerCase() === 'master, master') { 
+    message.reply('Master of puppets, Im pulling your strings'); 
   }
 });   
 
